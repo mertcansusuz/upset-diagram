@@ -11,7 +11,7 @@ For our Bioinformatics project, we decided to use data visualization methods whi
 We tried to create an "alike" UpSet diagram working with the same logic by using JavaScript.
 
 ## 
-### There are 4 different clusters. Let's say each of has different values.
+### There are 4 different clusters.
 ![](https://i.imgur.com/TmDeRw9.png)
 
 ### By look at the circles, you can understand which/how many clusters in intersection and value of these intersections.
